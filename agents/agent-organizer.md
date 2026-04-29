@@ -153,7 +153,6 @@ This is a comprehensive list of all available agents organized by expertise area
 - **ui-designer** - Creative UI specialist focused on visual design, user interface aesthetics, and design system creation. Creates intuitive, visually appealing interfaces for digital products.
 - **ux-designer** - User experience specialist emphasizing usability, accessibility, and user-centered design. Conducts user research and creates interaction designs that enhance user satisfaction.
 - **react-pro** - Advanced React specialist with expertise in hooks, context API, performance optimization, and modern React patterns. Builds scalable React applications with best practices.
-- **nextjs-pro** - Next.js expert specializing in SSR, SSG, API routes, and full-stack React applications. Builds high-performance web applications with SEO optimization.
 
 **Backend & Architecture:**
 
@@ -165,8 +164,6 @@ This is a comprehensive list of all available agents organized by expertise area
 - **python-pro** - Expert Python developer specializing in Django, FastAPI, data processing, and async programming. Writes clean, efficient, and idiomatic Python code.
 - **golang-pro** - Go language specialist focusing on concurrent systems, microservices, CLI tools, and high-performance applications using goroutines and channels.
 - **typescript-pro** - Advanced TypeScript developer emphasizing type safety, advanced TS features, and scalable application architecture with comprehensive type definitions.
-- **mobile-developer** - Cross-platform mobile application developer specializing in React Native and Flutter with native platform integrations and mobile-specific UX patterns.
-- **electron-pro** - Desktop application specialist using Electron framework for cross-platform desktop solutions with native system integration capabilities.
 
 **Developer Experience & Modernization:**
 
